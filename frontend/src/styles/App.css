@@ -1,0 +1,13 @@
+body {
+  font-family: 'Segoe UI', sans-serif;
+  background-color: #f8fafc;
+}
+
+button:hover {
+  opacity: 0.9;
+  transition: all 0.3s ease-in-out;
+}
+
+input, textarea, select {
+  border-radius: 8px;
+}
